@@ -1,21 +1,6 @@
-# Hey! Welcome to my profile! How is it going? 👋
+# Hey! Welcome to my profile!👋
 
-My name is Guilherme Koerber, I'm from Brazil , I am a student of Analysis and Systems Development at the University of Joinville region (Univille). 📚
-
-<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="150"/>
-
-Currently working as a Developer at BPlus Tecnologia Ltda. 🌃
-
-
-
-## "My mind is my greatest power" 🧠
-
-- 📍 From Santa Catarina living in Joinville and sometimes in São Bento do Sul.
-- 💻 Vast music and computer knowledge.
-- 🔧 Technical knowledge in the IT sector - Software.
-- 🔎 Seeking knowledge exchange
-- 📚 Currently studying progress.
-
+My name is Guilherme Koerber, I'm from Brazil , I am a student of Analysis and Systems Development at the University of Joinville region (Univille) and currently working as a Developer at BPlus Tecnologia Ltda.
 
 ### Contact
 
